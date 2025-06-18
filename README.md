@@ -32,7 +32,7 @@ To run the project locally, follow these steps:
 
 To use the application, go to your web browser and enter the address:
 
-  https://localhost:27017/
+  https://localhost:5000/
 
 ## Database GUI managment
 
